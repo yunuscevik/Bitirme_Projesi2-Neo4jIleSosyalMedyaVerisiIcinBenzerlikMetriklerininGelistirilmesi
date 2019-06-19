@@ -1,0 +1,1 @@
+# Bitirme_Projesi2-Neo4jIleSosyalMedyaVerisiIcinBenzerlikMetriklerininGelistirilmesi
